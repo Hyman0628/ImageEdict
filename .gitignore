@@ -3,4 +3,6 @@
 ._*
 
 # Deno
-/deno.lock
+/deno.lock# SSH密钥文件
+# 添加公钥到GitHub账户
+# 添加公钥到GitHub账户.pub
